@@ -1,47 +1,90 @@
-## Hi, I'm Danny 👋
+# 👋 Hi, I'm Danny Mairena
 
-<!--
-**dannymairena01/dannymairena01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building production-ready software that solves real business problems.
 
-Here are some ideas to get you started:
+I work at the intersection of backend engineering, AI infrastructure, and automation systems, designing software that integrates LLMs, databases, APIs, and operational workflows into scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-Software Engineer focused on building production-grade LLM systems, automation architectures, and backend infrastructure.
-
-I design and implement scalable AI systems that move beyond experimentation into real operational workflows — integrating Large Language Models, structured data pipelines, and automation frameworks into cohesive backend platforms.
+Beyond experimenting with models, I’m interested in how AI integrates into real systems: reliability, cost, architecture, and measurable business impact.
 
 ---
 
-## What I Build
+## What I Work On
 
-- Agentic AI systems and workflow orchestration engines
-- Multi-provider LLM routing with fallback and cost-aware model selection
-- Backend AI infrastructure (Python, async APIs, system design)
-- Automation pipelines for document processing and structured data extraction
-- AI-enabled operational systems integrated with real-world APIs and databases
+### Full-Stack Engineering
+- Backend systems in **Python, FastAPI, Node.js**
+- Frontend applications with **Next.js, React**
+- REST API design and async architecture
+- Database modeling with **PostgreSQL**
+- Cloud-ready applications using Docker & CI/CD
+
+### AI & LLM Systems
+- Multi-provider LLM routing (OpenAI, Anthropic, Gemini)
+- Agent-style orchestration systems
+- Cost-aware and fallback-based model selection
+- Prompt pipelines connected to structured data
+- Document parsing & automated data extraction workflows
+
+### Automation Architecture
+- Workflow automation using APIs and event-driven logic
+- AI-enhanced data pipelines
+- Operational tools that reduce manual processes
+- Systems integrated with real-world APIs and business databases
 
 ---
 
-## Engineering Philosophy
+## Current Focus
 
-AI creates value when it is deeply integrated into production systems.
+- Building backend-heavy AI systems with production-oriented architecture
+- Strengthening system design and infrastructure fundamentals
+- Bridging AI capabilities with real-world business use cases
+- Growing **MAI Consultant**, where I design AI-driven automation solutions for small and mid-sized businesses
 
-I focus on:
-- Long-term architecture over quick demos
-- Reliability and cost-awareness in LLM deployments
-- Clean API-first design
-- Scalable backend systems that connect models to real infrastructure
+---
+
+## Engineering Approach
+
+I care about:
+
+- Designing systems that scale beyond demos
+- Clean API-first architecture
+- Cost-awareness in AI deployments
+- Reliability and fallback strategies
+- Solving problems from a business-first perspective
+
+Technology matters — but outcomes matter more.
+
+---
+
+## MAI Consultant
+
+Founder of **MAI Consultant** — an AI automation initiative focused on helping businesses integrate AI and automation into their operations.
+
+Areas of focus:
+- Workflow automation
+- AI-assisted operational tools
+- Backend AI integrations
+- Process optimization through software systems
+
+Long-term goal: build durable, production-grade AI systems that drive measurable efficiency gains.
+
+---
+
+## Tech Stack
+
+**Languages:**  
+Python, JavaScript, TypeScript, Java, SQL  
+
+**Backend & APIs:**  
+FastAPI, Node.js, REST, Async Systems  
+
+**Frontend:**  
+React, Next.js  
+
+**AI & Tools:**  
+OpenAI API, Anthropic API, Gemini  
+
+**DevOps & Infrastructure:**  
+Docker, GitHub Actions, CI/CD, PostgreSQL  
 
 ---
 
@@ -49,4 +92,3 @@ I focus on:
 
 - LinkedIn: https://www.linkedin.com/in/danny-mairena/
 
-Building systems where AI meets real infrastructure.
