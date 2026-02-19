@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-AI Engineer focused on building production-grade LLM systems, automation architectures, and backend infrastructure.
+Software Engineer focused on building production-grade LLM systems, automation architectures, and backend infrastructure.
 
 I design and implement scalable AI systems that move beyond experimentation into real operational workflows — integrating Large Language Models, structured data pipelines, and automation frameworks into cohesive backend platforms.
 
