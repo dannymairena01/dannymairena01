@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danny Mairena
+# Hi, I'm Danny Mairena
 
 Software Engineer focused on building production-ready software that solves real business problems.
 
